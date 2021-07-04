@@ -1,2 +1,2 @@
 # safe-exit
-Exit from Dev mode safely
+Exit from Dev Mode safely
