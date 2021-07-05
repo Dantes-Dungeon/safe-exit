@@ -155,11 +155,6 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <Reference Include="Windows.Xbox">
-      <HintPath>D:\Users\t3\Downloads\balls\Windows.Xbox.winmd</HintPath>
-    </Reference>
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="comimportthingy\comimportthingy.vcxproj">
       <Project>{42a8df67-7d7d-416a-82a4-640f85f3808b}</Project>
       <Name>comimportthingy</Name>
