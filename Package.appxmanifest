@@ -10,7 +10,7 @@
 
   <Identity
     Name="e7c41127-3506-4669-b149-7dfcf08c375a"
-    Publisher="CN=t3"
+    Publisher="CN=Tunip3"
     Version="1.0.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="e7c41127-3506-4669-b149-7dfcf08c375a" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
